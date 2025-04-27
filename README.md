@@ -10,18 +10,15 @@
 </html>
 <body>
   <img src="img/avatar-perfil.png" alt="hiago" srcset="" />
-  <p>Eu sou Fernanda_</p>
+  <p>sou hiago</p>
   <h1>Eu ensino Programação</h1>
   <p>
-    Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
-    para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
-    computacional usando HTML, CSS e JavaScript. Veja os projetos que já
-    desenvolvi!
+    Sou Fundador da Drex e monitoro algumas porções de dinheiro, detectando transações suspeitas e informando o superior
   </p>
   <p>Minhas habilidades</p>
   <div>
-    <p>HTML</p>
-    <p>CSS</p>
+    <p>Analise Financeira</p>
+    <p>Gestão de Riscos</p>
     <p>JavaScript</p>
     <p>Scratch</p>
   </div>
